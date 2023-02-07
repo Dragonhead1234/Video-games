@@ -1,5 +1,4 @@
 # Video-games
-<DOCTYPE!html>
 <html>
 <body bgcolor="#00FF7F">
 <header>
